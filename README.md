@@ -11,7 +11,7 @@ I’m a Full Stack Web Developer with extensive experience for over 7 years. My 
 * ✉️  You can contact me at [sucharith.dasun@gmail.com](mailto:sucharith.dasun@gmail.com)
 * 🚀  I'm currently working on [slviki.org](http://slviki.org)
 * 🧠  I'm learning Django, NodeJS, C#.net, PHP
-* 🤝  I'm open to collaborating on Projects using Django, PHP, React
+* 🤝  I'm open to collaborating on Full-Stack Web Development Projects
 * ⚡  Do What You Love And Love What You Do
 
 <a href="https://www.twitter.com/dasun_sucharith" target="_blank" rel="noreferrer"><img
