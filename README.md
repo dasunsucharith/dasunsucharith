@@ -1,18 +1,28 @@
 Hi 👋 My name is Dasun Sucharith
-================================
 
-Full Stack Web Developer & Designer
------------------------------------
+Digital Alchemist | Web Developer | Marketing Automation Engineer
 
-I’m a Full Stack Web Developer with extensive experience for over 7 years. My expertise is to develop and design websites using various latest technologies and I’m also into mobile app development too. I’m up for challenges and love to learn new technologies every day. It is easier for me because I’m a quick learner and truly believes that people should learn something each and every day!
+Hey there! I’m a curious builder and creative problem-solver from Sri Lanka, blending code, design, and automation to craft meaningful digital experiences. With over 7 years of experience, I specialize in building dynamic websites, optimizing SEO, crafting marketing automation flows, and experimenting with AI-driven tools for smarter development.
 
-* 🌍  I'm based in Sri Lanka
-* 🖥️  See my portfolio at [dasunsucharith.me](http://dasunsucharith.me)
-* ✉️  You can contact me at [sucharith.dasun@gmail.com](mailto:sucharith.dasun@gmail.com)
-* 🚀  I'm currently working on [slviki.org](http://slviki.org)
-* 🧠  I'm learning Django, NodeJS, C#.net, PHP
-* 🤝  I'm open to collaborating on Full-Stack Web Development Projects
-* ⚡  Do What You Love And Love What You Do
+Whether it’s building a custom WordPress theme, architecting a React-based platform, or running intelligent email marketing via Pardot and custom SMTP setups — I’m all in. I also dabble in generative AI, podcasting, and game development, often infusing Sri Lankan cultural elements into my work.
+
+I believe in constant reinvention, lifelong learning, and doing work that excites both the brain and the heart.
+
+🌍  Based in Sri Lanka
+
+🧠  Currently learning NestJS, GSAP, Django & more advanced Next.js patterns
+
+🎧  Co-host of the podcast Ehema Wenne AI?
+
+🔧  Currently working on: slviki.org, softeradigital.com, thousandtravels.lk
+
+🖥️  Portfolio: dasunsucharith.me
+
+📧  Email: sucharith.dasun@gmail.com
+
+🤝  Open to collaborations in AI-driven apps, personalization tech, marketing automation, and web development
+
+⚡  Motto: "Be curious. Build with heart."
 
 <a href="https://www.twitter.com/dasun_sucharith" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/dasun_sucharith?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
