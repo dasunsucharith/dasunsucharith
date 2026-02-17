@@ -8,21 +8,21 @@ Whether it’s building a custom WordPress theme, architecting a React-based pla
 
 I believe in constant reinvention, lifelong learning, and doing work that excites both the brain and the heart.
 
-🌍  Based in Sri Lanka
+🌍  Based in Sri Lanka
 
-🧠  Currently learning NestJS, GSAP, Django & more advanced Next.js patterns
+🧠  Currently learning NestJS, GSAP, Django & more advanced Next.js patterns
 
-🎧  Co-host of the podcast Ehema Wenne AI?
+🎧  Co-host of the podcast Ehema Wenne AI?
 
-🔧  Currently working on: slviki.org, softeradigital.com, thousandtravels.lk
+🔧  Currently working on: slviki.org, softeradigital.com, thousandtravels.lk
 
-🖥️  Portfolio: dasunsucharith.me
+🖥️  Portfolio: dasunsucharith.me
 
-📧  Email: sucharith.dasun@gmail.com
+📧  Email: sucharith.dasun@gmail.com
 
-🤝  Open to collaborations in AI-driven apps, personalization tech, marketing automation, and web development
+🤝  Open to collaborations in AI-driven apps, personalization tech, marketing automation, and web development
 
-⚡  Motto: "Be curious. Build with heart."
+⚡  Motto: "Be curious. Build with heart."
 
 <a href="https://www.twitter.com/dasun_sucharith" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/dasun_sucharith?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -70,7 +70,6 @@ src="https://img.shields.io/github/followers/dasunsucharith?logo=github&style=fo
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/dasun.sucharith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/dasunsucharith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dasunsucharith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dasun-sucharith/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dasun_sucharith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCIgNRo3_Vb71hD4QRiz5jMg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
@@ -79,18 +78,49 @@ src="https://img.shields.io/github/followers/dasunsucharith?logo=github&style=fo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dasunsucharith"><img src="https://github-readme-stats.vercel.app/api?username=dasunsucharith&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dasunsucharith's GitHub stats" /></a>
+<a href="http://www.github.com/dasunsucharith">
+  <img src="https://github-readme-stats.vercel.app/api?username=dasunsucharith&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="dasunsucharith's GitHub stats" />
+</a>
 
-<a href="http://www.github.com/dasunsucharith"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dasunsucharith&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/dasunsucharith">
+  <img src="https://streak-stats.demolab.com/?user=dasunsucharith&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
 
-<a href="http://www.github.com/dasunsucharith"><img src="https://activity-graph.herokuapp.com/graph?username=dasunsucharith&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/dasunsucharith">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dasunsucharith&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
 
-<a href="https://github.com/dasunsucharith" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunsucharith&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/dasunsucharith" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunsucharith&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
+
+<br clear="all" />
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/dasunsucharith/netflix-clone-react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dasunsucharith&repo=netflix-clone-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dasunsucharith/python-flask-web-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dasunsucharith&repo=python-flask-web-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/dasunsucharith/vesak" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dasunsucharith&repo=vesak&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dasunsucharith/Flask_blog" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dasunsucharith&repo=Flask_blog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/dasunsucharith/netflix-clone-react">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dasunsucharith&repo=netflix-clone-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/dasunsucharith/python-flask-web-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dasunsucharith&repo=python-flask-web-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/dasunsucharith/vesak">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dasunsucharith&repo=vesak&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/dasunsucharith/Flask_blog">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dasunsucharith&repo=Flask_blog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
