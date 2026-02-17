@@ -70,6 +70,7 @@ src="https://img.shields.io/github/followers/dasunsucharith?logo=github&style=fo
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/dasun.sucharith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/dasunsucharith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dasunsucharith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dasun-sucharith/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dasun_sucharith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCIgNRo3_Vb71hD4QRiz5jMg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
@@ -87,40 +88,4 @@ src="https://img.shields.io/github/followers/dasunsucharith?logo=github&style=fo
 </a>
 
 <a href="http://www.github.com/dasunsucharith">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dasunsucharith&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
-
-<a href="https://github.com/dasunsucharith" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunsucharith&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
-
-<br clear="all" />
-
-<b>Top Repositories</b>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/dasunsucharith/netflix-clone-react">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dasunsucharith&repo=netflix-clone-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/dasunsucharith/python-flask-web-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dasunsucharith&repo=python-flask-web-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/dasunsucharith/vesak">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dasunsucharith&repo=vesak&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/dasunsucharith/Flask_blog">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dasunsucharith&repo=Flask_blog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+  <img
